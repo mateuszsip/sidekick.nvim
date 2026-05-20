@@ -104,9 +104,10 @@ local defaults = {
     -- stylua: ignore
     ---@type table<string, sidekick.cli.Config|{}>
     tools = {
-      aider    = {},
-      amazon_q = {},
-      claude   = {},
+      aider       = {},
+      amazon_q    = {},
+      antigravity = {},
+      claude      = {},
       codex    = {},
       copilot  = {},
       crush    = {},
